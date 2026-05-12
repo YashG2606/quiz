@@ -20,7 +20,7 @@ document.getElementById("quiz").innerHTML = `
 
 <h3>Ab to maan ja meri jaan ❤️</h3>
 
-<img src="YOUR_IMAGE_LINK" width="200">
+<img src="https://i.ibb.co/sJm0Hq7z/Whats-App-Image-2026-05-03-at-22-27-27.jpg" width="200">
 
 </div>
 
