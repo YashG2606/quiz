@@ -18,7 +18,7 @@ document.getElementById("quiz").innerHTML = `
 
 <h3>Ab to maan ja meri jaan ❤️</h3>
 
-<img src="https://ibb.co/zHWx5T9j" width="200">
+<img src="https://ibb.co/TqvVLtyd" width="200">
 
 `;
 
